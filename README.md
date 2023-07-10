@@ -12,3 +12,7 @@ The goal of the classification problem is to develop a model that can accurately
 - Data Cleaning
 - Fine-tuning the Hyperparameters
 - Model Evaluation
+
+## Dataset 📔 
+
+[Kaggle link: Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
