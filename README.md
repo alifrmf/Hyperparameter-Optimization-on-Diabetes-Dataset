@@ -1,4 +1,4 @@
-# Hyperparameter Optimization on Diabetes Dataset
+# 🛠️Hyperparameter Optimization on 💉Diabetes Dataset
 
 ![Presentation2](https://github.com/alifrmf/Hyperparameter-Optimization-on-Diabetes-Dataset/assets/105715834/43e6664c-37fd-485c-ae8b-8b881ab579fd)
 
